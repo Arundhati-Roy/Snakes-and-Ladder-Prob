@@ -1,0 +1,13 @@
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\bin\Debug\netcoreapp3.1\Snakes and Ladder Prob.exe
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\bin\Debug\netcoreapp3.1\Snakes and Ladder Prob.deps.json
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\bin\Debug\netcoreapp3.1\Snakes and Ladder Prob.runtimeconfig.json
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\bin\Debug\netcoreapp3.1\Snakes and Ladder Prob.runtimeconfig.dev.json
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\bin\Debug\netcoreapp3.1\Snakes and Ladder Prob.dll
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\bin\Debug\netcoreapp3.1\Snakes and Ladder Prob.pdb
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\obj\Debug\netcoreapp3.1\Snakes and Ladder Prob.csprojAssemblyReference.cache
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\obj\Debug\netcoreapp3.1\Snakes and Ladder Prob.AssemblyInfoInputs.cache
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\obj\Debug\netcoreapp3.1\Snakes and Ladder Prob.AssemblyInfo.cs
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\obj\Debug\netcoreapp3.1\Snakes and Ladder Prob.csproj.CoreCompileInputs.cache
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\obj\Debug\netcoreapp3.1\Snakes and Ladder Prob.dll
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\obj\Debug\netcoreapp3.1\Snakes and Ladder Prob.pdb
+C:\Users\priyadarshini roy\source\repos\Snakes and Ladder Prob\Snakes and Ladder Prob\obj\Debug\netcoreapp3.1\Snakes and Ladder Prob.genruntimeconfig.cache

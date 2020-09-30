@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Net.NetworkInformation;
 
 namespace SnakeLadderProblem
 {
     class Program
     {
+        public static int tot_dice_roll=0;
 
         public static int Game(int present_Pos)
         {
@@ -66,6 +68,8 @@ namespace SnakeLadderProblem
         {
             Random rn = new Random();
             int diceNum = rn.Next(1, 7);
+            tot_dice_roll++;
+            Console.WriteLine("Total Dice rolls: " + tot_dice_roll);
             return diceNum;
         }
 
